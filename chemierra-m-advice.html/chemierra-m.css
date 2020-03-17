@@ -1,0 +1,17 @@
+body{
+  background: #4C5ECE;
+background: -moz-linear-gradient(-45deg, #4C5ECE 0%, #17A487 50%, #6EC56A 100%);
+background: -webkit-linear-gradient(-45deg, #4C5ECE 0%, #17A487 50%, #6EC56A 100%);
+background: linear-gradient(135deg, #4C5ECE 0%, #17A487 50%, #6EC56A 100%);
+
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
